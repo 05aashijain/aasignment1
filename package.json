@@ -1,0 +1,22 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aashi garg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/05aashijain/aasignment1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/05aashijain/aasignment1/issues"
+  },
+  "homepage": "https://github.com/05aashijain/aasignment1#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
